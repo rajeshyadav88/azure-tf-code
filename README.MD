@@ -1,0 +1,1 @@
+This is IAC setup for azure resources
